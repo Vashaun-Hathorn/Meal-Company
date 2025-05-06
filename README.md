@@ -1,1 +1,1 @@
-In this project, we will be analyzing the meal company data set. The data set itself is separated into different sub data sets each containing information on fullfillment centers and the food items they provide.
+(Desciption of our dataset and project and why we picked it.)
